@@ -29,7 +29,7 @@ Con una visión clara del futuro y un compromiso inquebrantable con su crecimien
 
 ### Proyecto Actual
 
-- [Academic Sessions Servicio Nacional de Aprendizaje (SENA)](https://github.com/Santiago1481/ADSO-2900177)
+- [Servicio Nacional de Aprendizaje (SENA)](https://github.com/Santiago1481/ADSO-2900177)
 
 ### Contacto
 
