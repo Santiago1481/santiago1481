@@ -6,7 +6,7 @@
 [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=SantiagoCH&snow_icons=true&count_private=true)](https://github.com/Santiago1481)
 
 
-### Hi there 👋
+### Hola, saludos 👋
 
 Soy Santiago Chaparro apasionado estudiante del Servicio Nacional de Aprendizaje (SENA) con una firme dedicación hacia el mundo de la tecnología y el desarrollo de software. Nacido con una innata curiosidad por la informática, Me he comprometido a convertirme en un desarrollador junior de primer nivel y aspira a alcanzar el estatus de desarrollador full stack en el futuro.
 
