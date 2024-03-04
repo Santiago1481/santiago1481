@@ -3,7 +3,7 @@
 
 ![Location](https://img.shields.io/badge/Location-Neiva,%20Huila,%20Colombia-blue)
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=SantiagoCH_icons=true&count_private=true)](https://github.com/Santiago1481)
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=SantiagoCH&snow_icons=true&count_private=true)](https://github.com/Santiago1481)
 
 
 ### Hi there 👋
