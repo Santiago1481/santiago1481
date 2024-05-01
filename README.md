@@ -29,7 +29,7 @@ Con una visión clara del futuro y un compromiso inquebrantable con su crecimien
 ### Proyecto Actual
 
 - [Servicio Nacional de Aprendizaje (SENA)](https://github.com/Santiago1481/ADSO-2900177)
-- [Universidad del Sur de New Hampshire(Snhu)](https//github.com/Santiago1481/Trabajos-Proyectos)
+- [Universidad del Sur de New Hampshire(Snhu)](https://github.com/Santiago1481/Trabajos-Proyectos)
 
 ### Contacto
 
