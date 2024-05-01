@@ -25,11 +25,14 @@ Con una visión clara del futuro y un compromiso inquebrantable con su crecimien
 
 ### Habilidades Técnicas
 
-- En Formacion (aun no hay Habilidades Técnicas)
+- Trabajo en equipo
+- Gran Lider
+- Desarrollador de backend
 
 ### Proyecto Actual
 
 - [Servicio Nacional de Aprendizaje (SENA)](https://github.com/Santiago1481/ADSO-2900177)
+- [Universidad del Sur de New Hampshire(Snhu)](https//github.com/Santiago1481/Trabajos-Proyectos)
 
 ### Contacto
 
@@ -41,10 +44,14 @@ Con una visión clara del futuro y un compromiso inquebrantable con su crecimien
  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/santiagoardilla.chaparro?mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/santiagoo_1014?igsh=MTU4NGtpOXNvamdoYQ==) [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:alfasan1481@gmail.com)
 
 ## 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=santiago1481&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=santiago1481&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=santiago1481&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Santiago1481&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Santiago1481&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago1481&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Santiago1481&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
+---
+[![](https://visitcount.itsvg.in/api?id=Santiago1481&icon=8&color=0)](https://visitcount.itsvg.in)
 
