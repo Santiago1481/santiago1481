@@ -14,7 +14,6 @@ Con una mentalidad orientada hacia el crecimiento y el aprendizaje continuo, Est
 Fuera del ámbito académico, disfruto explorando nuevas tecnologías, participando en proyectos de código abierto y colaborando con otros profesionales del sector. Mi pasión por la programación y dedicación hacia el dominio de las últimas herramientas y técnicas me convierten en un activo valioso para cualquier equipo de desarrollo.
 
 Con una visión clara del futuro y un compromiso inquebrantable con su crecimiento profesional, Me estoy preparado para alcanzar nuevas alturas en mi carrera como desarrollador de software.
-ssstik.io_1712850622325.mp4
 
 ### Educación
 
