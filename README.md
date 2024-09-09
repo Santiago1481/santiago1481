@@ -50,6 +50,5 @@ Con una visión clara del futuro y un compromiso inquebrantable con su crecimien
 ![](https://github-contributor-stats.vercel.app/api?username=Santiago1481&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Santiago1481&icon=8&color=0)](https://visitcount.itsvg.in)
 [![Profile Views](https://visitcount.itsvg.in/api?id=Santiago1481&label=Profile%20Views&color=6&icon=8&pretty=true)](https://visitcount.itsvg.in)
 
