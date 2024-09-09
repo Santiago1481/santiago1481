@@ -51,4 +51,5 @@ Con una visión clara del futuro y un compromiso inquebrantable con su crecimien
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Santiago1481&icon=8&color=0)](https://visitcount.itsvg.in)
+[![Profile Views](https://visitcount.itsvg.in/api?id=Santiago1481&label=Profile%20Views&color=6&icon=8&pretty=true)](https://visitcount.itsvg.in)
 
