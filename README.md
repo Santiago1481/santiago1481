@@ -1,4 +1,4 @@
-### Santiago Chaparro Riaño Pepito peres
+### Santiago Chaparro Riaño
 ### Estudiante del Servicio Nacional de Aprendizaje (SENA), Comprometido a convertirse en un desarrollador junior de primer nivel y aspira a alcanzar el estatus de desarrollador full stack en el futuro.
 
 ![Location](https://img.shields.io/badge/Location-Neiva,%20Huila,%20Colombia-blue)
